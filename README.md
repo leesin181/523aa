@@ -1,15 +1,15 @@
-<！DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<头>
-<title>页面标题</title>
-</头>
-<身体>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-<h1>这是我的饼图</h1>
-<h2>派图</h2>
+<h1> This is my pie chart</h1>
+<h2>Pie chart</h2>
 
-< img src="https://postimg.cc/c6sGgzqK" alt="我们的产品" width="300" height="300">
+<img src="https://postimg.cc/c6sGgzqK"  width="300" height="300">
 
-<p>五位受访者对我们产品的看法<P>
+<p>The five respondents' thoughts on our products<P>
 </body>
 </html>
